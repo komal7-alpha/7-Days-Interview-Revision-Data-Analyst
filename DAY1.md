@@ -1,4 +1,4 @@
-````md
+
 # DAY 1 – PYTHON + SQL + EXCEL (ABSOLUTE BASICS)
 
 **Start Date & Time:** 2 Feb 2026, 12:06 PM  
