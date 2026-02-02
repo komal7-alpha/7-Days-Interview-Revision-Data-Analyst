@@ -45,52 +45,68 @@ Typing + explaining is mandatory.
 
 ---
 
-## Day 1 – Python Absolute Basics
+## Day 1 – Absolute Basics (Python + SQL + Excel)
 
-### Topics
+### Python Topics
 - What is Python (2-line explanation)
 - Data types: int, float, string
 - Collections: list, tuple, dictionary
 - for loop
-- if-else
-- Functions
+- Functions (basic)
 
-### You Must Be Able To
-- Write a basic loop
-- Write a simple function
-- Explain code line by line
-
-### Interview-Level Explanation
-"I use Python mainly for data cleaning, automation, and ETL tasks. I focus on clear and readable logic."
-
----
-
-## Day 2 – SQL Absolute Basics
-
-### Topics
+### SQL Topics
 - What is SQL
 - SELECT
 - WHERE
 - ORDER BY
-- LIMIT
-- WHERE vs HAVING
+
+### Excel Topics
+- SUM
+- COUNT
+- Basic IF formula
 
 ### You Must Be Able To
-- Fetch data with conditions
-- Sort results
-- Explain query execution order
+- Write a simple Python loop and function
+- Fetch filtered data using SQL
+- Explain basic Excel formulas
 
 ### Interview-Level Explanation
-"SQL is used to extract and manipulate structured data stored in relational databases."
+"I use Python for basic data processing, SQL for fetching data from databases, and Excel for simple validation and analysis."
+
+---
+
+## Day 2 – Core Basics Strengthening (Python + SQL + Excel)
+
+### Python Topics
+- if-else
+- Looping through lists
+- Simple logic-based programs
+
+### SQL Topics
+- LIMIT
+- WHERE vs HAVING (conceptual)
+- Query execution flow (high level)
+
+### Excel Topics
+- AVERAGE
+- COUNTIF
+- SUMIF
+
+### You Must Be Able To
+- Explain Python logic step by step
+- Apply conditions correctly in SQL
+- Use conditional formulas in Excel
+
+### Interview-Level Explanation
+"I focus on writing clear logic first. Even for simple problems, I make sure the output is correct and easy to understand."
 
 ---
 
 ## Day 3 – Excel Basics (Fear Removal)
 
 ### Topics
-- SUM, AVERAGE, COUNT
-- IF formula
-- COUNTIF, SUMIF
+- IF formula (detailed logic)
+- COUNTIF vs SUMIF
 - Relative vs absolute references
 
 ### You Must Be Able To
