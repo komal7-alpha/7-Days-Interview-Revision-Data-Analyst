@@ -314,6 +314,3 @@ Pause is allowed. Silence is allowed.
 
 ---
 
-
-**“Proceed to Day 2 in same format”**
-```
